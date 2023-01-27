@@ -1,0 +1,22 @@
+
+
+html {
+	position: relative !important;
+	width: auto;
+	height: auto;
+}
+
+
+
+body {
+	padding-top: 69px;
+
+	width: 100vw;
+	height: 100vh;
+
+	min-width: 280px !important;
+	min-height: 586px !important;
+
+	scroll-behavior: smooth !important;
+	overflow-x: hidden;
+}
